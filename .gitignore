@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 MNIST/
 runs/
+autoencoder/.ipynb_checkpoints/
+autoencoder/MNIST/
+autoencoder/best_model.pth
