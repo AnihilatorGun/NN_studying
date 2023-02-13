@@ -4,6 +4,7 @@ ____
 + [Technotrack 2021](https://github.com/mailcourses/technotrack-NN2021S-lectures)
 + [HSE DeepLearning](https://github.com/hse-ds/iad-deep-learning/tree/master/2022)
 + [MIPT DeepLearningSchool](https://github.com/DLSchool/deep-learning-school)
++ [Tinkoff course](https://algocode.ru/dlfall22/)
 ____
 ## Plans:
 - [ ] Check if TorchLigtning trainer is faster than mine
