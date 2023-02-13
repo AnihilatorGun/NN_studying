@@ -6,13 +6,13 @@ ____
 + [MIPT DeepLearningSchool](https://github.com/DLSchool/deep-learning-school)
 ____
 ## Plans:
-- [] Check if TorchLigtning trainer is faster than mine
-- [] Learn how does GAN work(write my own GAN)
-- [] Learn how does Transformers work(write my own transformer)
-- [] Finish technotrack's lectures and seminars, do all homework
-- [] Refresh in knowledge quality metrics
-- [] Refactor weather-project
-- [] Finish with metrics learning
+- [ ] Check if TorchLigtning trainer is faster than mine
+- [ ] Learn how does GAN work(write my own GAN)
+- [ ] Learn how does Transformers work(write my own transformer)
+- [ ] Finish technotrack's lectures and seminars, do all homework
+- [ ] Refresh in knowledge quality metrics
+- [ ] Refactor weather-project
+- [ ] Finish with metrics learning
 - [x] Learn how autoencoders work
 - [x] Autograd tricks
 - [x] Learn how tensorboard works
