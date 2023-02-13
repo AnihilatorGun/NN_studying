@@ -4,3 +4,6 @@ runs/
 autoencoder/.ipynb_checkpoints/
 autoencoder/MNIST/
 autoencoder/best_model.pth
+metric learning - face recognition(like FaceID)/best_models/
+metric learning - face recognition(like FaceID)/data/
+metric learning - face recognition(like FaceID)/libs/
