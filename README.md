@@ -8,8 +8,8 @@ ____
 ____
 ## Plans:
 - [ ] Check if TorchLigtning trainer is faster than mine
-- [ ] Learn how does GAN work(write my own GAN)
-- [ ] Learn how does Transformers work(write my own transformer)
+- [ ] Learn how does GAN work
+- [ ] Learn how does Transformers work
 - [ ] Finish technotrack's lectures and seminars, do all homework
 - [ ] Refresh in knowledge quality metrics
 - [ ] Refactor weather-project
@@ -19,3 +19,9 @@ ____
 - [x] Learn how tensorboard works
 - [x] Write own threaded data-management(realised in metrics learning)
 ____
+## Projects:
+- [ ] Cloudness checking
+- [ ] Metric learning
+- [ ] Knoledge distillation
+- [X] Autoencoders
+- [X] Saliency map
