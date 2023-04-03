@@ -5,6 +5,7 @@ ____
 + [HSE DeepLearning](https://github.com/hse-ds/iad-deep-learning/tree/master/2022)
 + [MIPT DeepLearningSchool](https://github.com/DLSchool/deep-learning-school)
 + [Tinkoff course](https://algocode.ru/dlfall22/)
++ [Dive into Deep Learning](http://d2l.ai/index.html)
 ____
 ## Plans:
 - [ ] Learn how does GAN work
