@@ -1,4 +1,5 @@
 # Hi! This repo represents my way of studying DeepLearning
+[My LinkedIn:)](https://www.linkedin.com/in/nikita-ushakov-b62725272/)
 ____
 ## Resources that I use:
 + [Technotrack 2021](https://github.com/mailcourses/technotrack-NN2021S-lectures)
@@ -10,7 +11,8 @@ ____
 ____
 ## Plans:
 - [ ] Finish technotrack's lectures
-- [ ] Make DeTR-like decoder for BERT encoder for multilable classification task
+- [ ] Make DeTR-like decoder for BERT encoder (multilable classification task)
+- [x] Understand NVIDIA-Dali (not at all, mix of shader-code and python makes it's work unstable and confusing)
 - [x] Look throught the Tinkoff's lectures
 - [x] Refactor cloudiness estimation project
 - [x] Learn how does Transformers work
@@ -20,13 +22,14 @@ ____
 ----
 ## Building blocks:
 - [ ] Knoledge distillation, pruning
-- [x] Transformers (BERT, DeTR)
-- [x] GAN (MB StyleGAN2 left)
-- [x] Metric learning (face recognition project)
+- [x] Transformers
+- [x] GAN
+- [x] Autoencoders
+- [x] Metric learning
 ____
 ## Pet projects:
 - [ ] DeTR-like multilable classification (BERT as backbone)
-- [ ] Cloudiness estimation (almost done, some minimal tests left)\
-- [ ] FaceGeneration
+- [ ] Cloudiness estimation (almost done, some minimal tests left)
+- [ ] FaceGeneration (there are some basic results)
 - [x] Judging trampoline acrobatics (commertial one, there is video as a proof)
 - [x] Face recognition

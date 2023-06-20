@@ -4,10 +4,10 @@ runs/
 autoencoder/.ipynb_checkpoints/
 autoencoder/MNIST/
 autoencoder/best_model.pth
-face recognition/best_models/
-face recognition/data/
-face recognition/libs/
-face recognition/logs/
+face_recognition/best_models/
+face_recognition/data/
+face_recognition/libs/
+face_recognition/logs/
 References/
 GANs/best_models/
 cloudiness estimation/logs/
