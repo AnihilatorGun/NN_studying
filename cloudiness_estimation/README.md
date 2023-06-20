@@ -5,7 +5,7 @@ The original dataset consists of about 101,000 512x512 labeled images and masks 
 Each image is a projection of a hemisphere onto the plane taken with spherical cameras taken during an expedition. The labels are ints in [0; 8], the mask is also a 512x512 image hiding the ship's equipment. The dataset was processed - each mask was applied to the image and the resulting mask was resized to 256x256. Also, a small expedition was deleted as there were many misidentifications.
 Then the data was split into a training set and a test set, so that one day's images only make up either the training set or the test set.
 And some more info about labeling - photos are taken every 10 seconds (approximately), but the specialist only took notes about the weather every hour, so some images are mislabeled (but there is no way to find out - you would have to look through the whole dataset). This fact is the main difficulty of the task.
-![Data sample](https://github.com/AnihilatorGun/NN_studying/tree/master/cloudiness_estimation/sample.jpg)
+![Data sample](https://github.com/AnihilatorGun/NN_studying/blob/master/cloudiness_estimation/sample.jpg)
 ____
 ## Architecture:
 - Task is solved by regression (although classes exist, there are explicit hierarchy)
