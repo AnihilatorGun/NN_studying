@@ -28,8 +28,9 @@ ____
 - [x] Metric learning
 ____
 ## Pet projects:
-- [ ] DeTR-like multilable classification (BERT as backbone)
+- [ ] BERToDeTR for multilable classification (BERT as backbone)
 - [ ] Cloudiness estimation (almost done, some minimal tests left)
 - [ ] FaceGeneration (there are some basic results)
+- [ ] DeTR for detection and segmentation
 - [x] Judging trampoline acrobatics (commertial one, there is video as a proof)
 - [x] Face recognition
