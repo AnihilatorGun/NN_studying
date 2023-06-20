@@ -12,7 +12,8 @@ ____
 ## TODO:
 - [ ] Train models, compare them with each other
 - [ ] Implement auxiliary losses (get the outputs from each decoder layer, pass them through FFN, calculate the losses and add them to the main loss)
-- [ ] FIX memory_key_padding_mask inside the decoder - BERT takes it as float [0.0, 1.0], where 1.0 means the element is taken, 0.0 means the element is not taken, but TransformerDecoder as implemented in Torch takes either bool or float, and floar is simply added to the attention.
+- [ ] FIX "memory_key_padding_mask inside" the decoder - BERT takes it as float [0.0, 1.0], where 1.0 means the element is taken, 0.0 means the element is not taken, but TransformerDecoder as implemented in Torch takes either bool or float, and floar is simply added to the attention.
+- [x] Apply some methods from "composer" (there are some API inconsistencies, some methods should not require an optimizer. Also some methods require specific CUDA library which cannot be installed in kaggle)
 - [x] Implement hungarian algorithm (meh, made from scratch, MUST be modified)
 - [x] Implement DeTR head
 - [x] Implement baseline BERT-FC for multilabel classification
