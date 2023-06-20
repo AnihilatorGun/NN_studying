@@ -34,3 +34,12 @@ ____
 - [ ] DeTR for detection and segmentation
 - [x] Judging trampoline acrobatics (commertial one, there is video as a proof)
 - [x] Face recognition
+____
+## Technologies used:
+- PyTorch-Lightning
+- Wandb
+- Connectome
+- NVIDIA-Dale
+- Composer
+- Torch-Pruning (not familiar)
+- transformers, datasets (Huggingface)
