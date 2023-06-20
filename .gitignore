@@ -12,3 +12,5 @@ References/
 GANs/best_models/
 cloudiness estimation/logs/
 cloudiness estimation/best_models/
+autoencoders/
+tensorboard test/
