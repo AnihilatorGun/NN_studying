@@ -10,7 +10,8 @@ face_recognition/libs/
 face_recognition/logs/
 References/
 GANs/best_models/
-cloudiness estimation/logs/
-cloudiness estimation/best_models/
+cloudiness_estimation/logs/
+cloudiness_estimation/best_models/
 autoencoders/
 tensorboard test/
+
