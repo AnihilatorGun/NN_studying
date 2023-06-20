@@ -41,5 +41,5 @@ ____
 - Connectome
 - NVIDIA-Dale
 - Composer
-- Torch-Pruning (not familiar)
+- Torch-Pruning (a bit familiar)
 - transformers, datasets (Huggingface)
