@@ -12,6 +12,7 @@ ____
 ## TODO:
 - [ ] Train models, compare them with each other
 - [ ] Implement auxiliary losses (get the outputs from each decoder layer, pass them through FFN, calculate the losses and add them to the main loss)
+- [ ] FIX memory_key_padding_mask inside the decoder - BERT takes it as float [0.0, 1.0], where 1.0 means the element is taken, 0.0 means the element is not taken, but TransformerDecoder as implemented in Torch takes either bool or float, and floar is simply added to the attention.
 - [x] Implement hungarian algorithm (meh, made from scratch, MUST be modified)
 - [x] Implement DeTR head
 - [x] Implement baseline BERT-FC for multilabel classification
