@@ -4,9 +4,8 @@ ____
 
 ____
 VAE/WGAN GP consists of three parts - Encoder(E), Generator-decoder(G) and Discriminator(D). The idea is to make G map random noise to data which is distributed as the data in the dataset, but also make E and G work as a couple - E maps original data to the embedding space and G tries to restore the original data. That helps G not to produce adversarial attacks, as it can be in the usual GANs, but still has detailed data as it is in the GANs. 
-<div align=center>
-<img src="https://github.com/AnihilatorGun/NN_studying/tree/master/GANs/images/vae_gan.png"/>
-</div>
+![VAE-WGAN Architecture](https://github.com/AnihilatorGun/NN_studying/blob/master/GANs/images/vae_gan.png)
+![Baseline generation based on 20% of the CelebA](https://github.com/AnihilatorGun/NN_studying/blob/master/GANs/images/celeba_generated.png)
 
 ____
 ## TODO:
